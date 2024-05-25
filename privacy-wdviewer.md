@@ -4,7 +4,7 @@ title: Privacy Policy
 permalink: /privacy-wdviewer/
 ---
 
-**Privacy Policy**
+###Privacy Policy
 
 This privacy policy applies to the WhatsApp Backup Viewer app (hereby referred to as "Application") for mobile devices that was created by sangeetha1990a@gmail.com (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
 
@@ -19,6 +19,7 @@ The Service Provider may use the information you provided to contact you from ti
 For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
 **Device Information** 
+
 We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
 
 
