@@ -12,6 +12,8 @@ This privacy policy applies to the **Whats Data Viewer** app (hereby referred to
 
 The Application collects information when you download and use it. This information may include information such as
 
+The Application collect Advertising ID (Device id) for Google Ads purpose.
+
 The Application does not gather precise information about the location of your mobile device.
 
 The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
