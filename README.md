@@ -4,7 +4,7 @@ We are develop mobile Apps for android and ios. <abbr title="This is our Brand n
 feel to free contact as <sangeetha1990a@gmail.com>
 
 ### Apps
-  * **2** app total
+  * **2** apps total
 
 | Icon | App Name | Package Name | Genre |
 | --- | --- | --- | --- |
