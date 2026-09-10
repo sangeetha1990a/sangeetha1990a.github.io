@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: terms
 title: WiFi Rummy Terms & Conditions
 permalink: /terms-wifi-rummy/
 ---
